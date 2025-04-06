@@ -1,6 +1,15 @@
-# my-app
+# mini-quiz app
 
-This template should help get you started developing with Vue 3 in Vite.
+> This is a mini quiz application that features both a tap-to-reveal screen and swipe UI options
+## Built With
+
+- [Vue.js](https://vuejs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+
+### Live Demo 
+
+🔥 [Live demok](https://mini-quiz-five.vercel.app/)
+
 
 ## Recommended IDE Setup
 
