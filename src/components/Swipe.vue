@@ -17,6 +17,8 @@
       <button @click="() => handleDirection('right')" class="px-4 py-2 h-[40px] bg-green-500 text-white rounded-lg shadow">Swipe Right</button>
     </div>
     <div v-else class="w-80 h-96 flex items-center justify-center bg-white rounded-2xl shadow-xl text-2xl font-semibold text-green-600">Great Job!</div>
+  <button class="px-4 py-2 my-[40px] h-[40px] bg-blue-500 text-white rounded-lg shadow">Next</button>
+
   </div>
 </template>
 
