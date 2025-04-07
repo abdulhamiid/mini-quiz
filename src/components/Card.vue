@@ -92,16 +92,6 @@ const flipCard = () => {
   transform: rotateY(180deg);
 }
 
-/* If you want to flip the card using 'Hover' */
-
-/* .flip-container:hover .flip-card-front {
-  transform: rotateY(180deg);
-}
-
-.flip-container:hover .flip-card-back {
-  transform: rotateY(360deg);
-} */
-
 /* Flipping The Card On Click */
 
 .flip-container.flipped .flip-card-front {
