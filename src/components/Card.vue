@@ -25,7 +25,7 @@ const flipCard = () => {
 
     <div
       :class="{ flipped: isFlipped }"
-      class="flip-container relative h-64 w-full rounded-3xl"
+      class="flip-container relative h-52 w-full rounded-3xl"
     >
       <!-- Front Side Of Card -->
 
